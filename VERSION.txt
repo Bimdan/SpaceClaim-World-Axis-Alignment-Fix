@@ -1,0 +1,5 @@
+SpaceClaim World-Axis Alignment Fix
+Community release: 1.0.0
+Release date: 2026-08-14
+Tested target: Ansys SpaceClaim 2021 R1 / SpaceClaim.Api.V19
+Validated SpaceClaim version: 2021.1.0.11221
